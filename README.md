@@ -1,2 +1,2 @@
 # react-origamid
-Projeto curso react completo da Origamid
+Projeto curso react - Origamid
